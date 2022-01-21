@@ -4,3 +4,5 @@ This app is created for spectrum leakage effect demonstation. Such effect occurs
 ## Screenshots:
 ![screenshot](screenshot1.png)
 ![screenshot](screenshot2.png)
+## Dependencies:
+* [OxyPlot](https://github.com/oxyplot/oxyplot)
